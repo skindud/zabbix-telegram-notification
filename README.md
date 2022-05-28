@@ -1,3 +1,4 @@
+# Zabbix-telegram-notification
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -22,9 +23,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+[![GitHub Super-Linter](https://github.com/skindud/useful/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -37,10 +37,10 @@
   </p>
 </div>
 
-## Inspired by 
+## Inspired by
 
-- https://github.com/GabrielRF/Zabbix-Telegram-Notification
-- https://github.com/xxsokolov/Zabbix-Notification-Telegram
+- <https://github.com/GabrielRF/Zabbix-Telegram-Notification>
+- <https://github.com/xxsokolov/Zabbix-Notification-Telegram>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
