@@ -1,3 +1,4 @@
+# Zabbix-telegram-notification
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -36,10 +37,10 @@
   </p>
 </div>
 
-## Inspired by 
+## Inspired by
 
-- https://github.com/GabrielRF/Zabbix-Telegram-Notification
-- https://github.com/xxsokolov/Zabbix-Notification-Telegram
+- <https://github.com/GabrielRF/Zabbix-Telegram-Notification>
+- <https://github.com/xxsokolov/Zabbix-Notification-Telegram>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
